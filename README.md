@@ -1,6 +1,8 @@
 # credit-card-detection
 A machine learning project to detect fraudulent credit card transactions using Python and popular data science libraries such as NumPy, Pandas, and Scikit-learn. The goal is to build an efficient classification model that can accurately identify fraud while minimizing false positives.
 
+Credit card fraud detection 💳🔍 is the process of identifying suspicious or unauthorized credit card transactions in real time. It analyzes spending patterns 💳📊, transaction amounts 💰, locations 🌍, and time ⏰ using rules and machine learning 🤖. When a transaction looks unusual ⚠️, it is flagged or blocked instantly 🚫💳, helping banks and customers stay safe from financial loss 🔐💳.
+
 ---
 
 ## Project Overview
